@@ -203,3 +203,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Built with ❤️ for secure healthcare data management on Aptos**
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6aa2467d-f671-48ed-8d6b-268a4deed8a6" />
+
