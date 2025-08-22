@@ -1,0 +1,16 @@
+[package]
+name = "HealthDataBackup"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "721428bb859eb8dd365911ca730a9d7719188912c3805f33be8a053e27aadf7a"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
